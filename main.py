@@ -15,17 +15,17 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input("itz.zuppyx")
    if account_name=="":
-     print('please input a real name')
-   else if req.on(`www.instagram.com/%account_name%`)==Flase:
-     print('I didnt found your instagram account')
+     print('zuppy')
+   else if req.on(`www.Tiktok.com/%account_name%`)==Flase:
+     print('I didnt found your Tiktok account')
  print("Please choose a botter category:')
- print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
+ print("");print("[100] - Likes ");print("");print("[250] - Views ");print("");print("[1000] - Followers ");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
-          if req.url==False:
+          url=input('https://www.tiktok.com/@itz.zuppyx?_t=ZN-90wisP0ht0o&_r=1')
+          if req.url==True:
        print('cannot find the post')
           else: 
        accnum=1
